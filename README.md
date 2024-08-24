@@ -12,10 +12,10 @@ This program is developed for MFest to automate the creation of large-format pai
 
 ## How to Use
 
-1. **Upload Order File:** Users upload an order file through the web interface.
+1. **Upload Orders File:** Users upload an orders file through the web interface.
 2. **Image Retrieval:** The system retrieves images associated with the order from the API.
 3. **Canvas Creation:** Images are resized to real dimensions and combined into canvases.
-4. **Download Canvases:** The processed canvases are available for download in the specified format.
+4. **Download Canvases:** The processed canvases are available for download zip file with log and canvases.
 
 ## Installation
 
