@@ -34,4 +34,11 @@ This program is developed for MFest to automate the creation of large-format pai
    python MakePhotoForPrintApp.py
    ```
 
+## Requirements
+- Python 3.x
+- `flask`
+- `requests`
+- `pillow`
+- `openpyxl`
+
 ---
