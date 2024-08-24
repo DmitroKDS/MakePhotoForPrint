@@ -41,7 +41,7 @@ This program is developed for MFest to automate the creation of large-format pai
 - `pillow`
 - `openpyxl`
 
-## Requirements
+## Images
 - **Main Page:** <img width="1313" alt="Screenshot 2024-08-24 at 23 41 00" src="https://github.com/user-attachments/assets/718e060d-0be5-4e62-9496-0e4fea53cea4">
 - **Process Page:** <img width="1313" alt="Screenshot 2024-08-24 at 23 41 43" src="https://github.com/user-attachments/assets/73a251ed-8f59-4e83-96f8-51cd966b0d52">
 - **Downloading Page:** <img width="1313" alt="Screenshot 2024-08-24 at 23 41 50" src="https://github.com/user-attachments/assets/44640786-0ef0-454b-bf08-11838bb93365">
