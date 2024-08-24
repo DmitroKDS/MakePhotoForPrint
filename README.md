@@ -21,7 +21,7 @@ This program is developed for MFest to automate the creation of large-format pai
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/MakePhotoForPrint.git
+   git clone https://github.com/DmitroKDS/MakePhotoForPrint.git
    ```
 
 2. **Install the required packages:**
